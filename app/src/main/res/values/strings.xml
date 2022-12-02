@@ -2,6 +2,8 @@
     <string name="app_name">ESGI</string>
 
     <string name="my_bookings">My Bookings</string>
+    <string name="no_bookings">You have no bookings yet</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipisci elit, set do eiusmod</string>
     <string name="status_on_process">On Process</string>
     <string name="status_upcoming">Upcoming</string>
     <string name="status_completed">Completed</string>

@@ -8,7 +8,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.esgi.android.exercices"
+        applicationId "com.esgi.android.exercices.DIARRA_Moustapha"
         minSdk 21
         targetSdk 33
         versionCode 1
